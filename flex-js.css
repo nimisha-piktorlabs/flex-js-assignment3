@@ -54,6 +54,7 @@ body{
 /* .rowgrow{
     flex-grow: 3;
 } */
+/* expand  */
 .col-1grow{
     flex-grow: 3;
     transition: 0.5s ease-in-out;
